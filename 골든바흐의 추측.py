@@ -19,3 +19,4 @@ while(True):
   print("e : ", e)
 
   print("{0} = {1} + {2}".format(n, e[0], e[-1]))
+  #
